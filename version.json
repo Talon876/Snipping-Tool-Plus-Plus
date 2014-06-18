@@ -1,0 +1,22 @@
+{
+    "version_name": "Original",
+    "major": "5",
+    "minor": "3",
+    "patch": "5",
+    "download": "http://snippingtoolpluspl.us/downloads/SnippingToolPlusPlus-5.3.5.jar",
+    "changes": {
+        "added": [
+            "this is a list", "of additions", "for this patch"
+        ],
+        "removed": [
+            "this is a list", "of things that", "were removed"
+        ],
+        "changed": [
+            "a list of things", "that have changed"
+        ],
+        "fixed": [
+            "all the bugs", "that don't exist now"
+        ]
+    },
+    "note": "Just some extra information from the developer"
+}
